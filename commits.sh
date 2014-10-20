@@ -68,7 +68,7 @@ for i in {0..364}
 						# echo $out
 						echo $out >> ./README.md
 						git commit -am "$out" --date "$nd"
-						# echo "export GIT_AUTHOR_DATE=$nd export GIT_COMMITTER_DATE=$nd"
+						echo "export GIT_AUTHOR_DATE=$nd export GIT_COMMITTER_DATE=$nd"
 						# git 
 						commitCount=$(($commitCount+1))
 				done
