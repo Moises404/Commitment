@@ -8,7 +8,8 @@ Application
 
 In order to make the code function the user must create their own repo and execute the code from their personal account. Forked repos don't affect the commit timestamp of the user. Also beware the affects that these commits create for your timeline.
 
-
+Commits
+=================
 
 Commit + 1
 Commit + 2
