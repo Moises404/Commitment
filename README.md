@@ -1,3 +1,5 @@
+![Alt text](/commitment-screenshot.png?raw=true "Screenshot")
+
 Commitment
 =================
 
