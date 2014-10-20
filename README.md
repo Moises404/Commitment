@@ -1,7 +1,7 @@
 Commitment
 =================
 
-Github commit drawing mechanism started as an experiement at the School for Poetic Computation. The code is written in Shell which automates a series of commit timestamps that affect the visual look of the users github. Project done in collaboration with Jonathan Wohl.
+Github commit drawing mechanism started as an experiement at the School for Poetic Computation. The code is written in bash which automates a series of commit timestamps that affect the visual look of the users github. Project done in collaboration with Jonathan Wohl.
 
 Application
 =================
